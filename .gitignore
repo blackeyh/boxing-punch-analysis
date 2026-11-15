@@ -1,0 +1,22 @@
+__pycache__/
+.DS_Store
+*.tmp
+*.log
+# data, footage, model weights and run outputs are never committed
+external/raw/
+external/pose*/
+external/chain_streams/
+external/landed_ft/
+runs/
+Skeleton_data/
+Skeleton3D_data/
+Annotation_files/
+RGB_videos/
+*.mp4
+*.wav
+*.npz
+*.npy
+*.pt
+*.pth
+*.onnx
+*.joblib

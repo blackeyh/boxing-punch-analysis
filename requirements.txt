@@ -1,0 +1,20 @@
+# Core (laptop): Python 3.12
+numpy==1.26.4
+pandas==2.2.2
+scipy
+scikit-learn==1.7.2
+torch==2.9.0
+torchvision
+opencv-python
+pillow
+joblib
+psutil
+openpyxl==3.1.5
+matplotlib
+reportlab           # report generator only
+# Pose and video models
+rtmlib==0.0.16      # RTMPose + YOLOX (onnxruntime / onnxruntime-gpu)
+onnxruntime
+mediapipe           # phase 1-3 only
+transformers        # VideoMAE, Qwen3-VL, OWLv2
+huggingface_hub
