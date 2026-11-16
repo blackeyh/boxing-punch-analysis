@@ -6,6 +6,7 @@
 
 <sub>Demo footage: *My first boxing sparring* by Michal Hradiš (YouTube, CC BY). Every effect is driven by a real output: health drops only on punches judged LANDED, GUARD! / WHIFF! show blocked / missed verdicts, trail colours show the punch family.</sub>
 
+🧭 **How it works (4 pages):** [docs/Pipeline_Overview.pdf](docs/Pipeline_Overview.pdf)  
 📄 **Full write-up:** [docs/Boxing_Punch_Analysis_Report.pdf](docs/Boxing_Punch_Analysis_Report.pdf) (13 pages: every phase, what failed, and how it was fixed)
 📓 **Lab notebook:** [docs/research_log.md](docs/research_log.md) (every experiment, prediction and result, in order)
 
